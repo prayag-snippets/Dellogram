@@ -62,7 +62,7 @@ const PostForm = ({post} : any) => {
                                     mediaUrl={ post?.imageUrl }
                                 />
                             </FormControl>
-                            <FormMessage className='shad-form_message' />
+                            <FormMessage className='shad-form_message'/>
                         </FormItem>
                     )}
                 />
